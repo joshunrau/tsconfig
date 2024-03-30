@@ -6,6 +6,7 @@
     "esModuleInterop": false,
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
+    "lib": ["ESNext"],
     "maxNodeModuleJsDepth": 0,
     "module": "Node16",
     "moduleDetection": "force",
