@@ -1,0 +1,9 @@
+# Changelog
+
+## [0.0.2](https://github.com/joshunrau/tsconfig/compare/v0.0.1...v0.0.2) (2024-03-30)
+
+
+### Bug Fixes
+
+* set allowSyntheticDefaultImports to true ([179aa9c](https://github.com/joshunrau/tsconfig/commit/179aa9c6ff72c11e3526eb629615841eb2288dd6))
+* specify lib ([b8f968a](https://github.com/joshunrau/tsconfig/commit/b8f968a80850028b7696b66d49977cdf09e43098))
