@@ -8,7 +8,7 @@ pnpm add -D @joshunrau/tsconfig
 
 ## Usage
 
-```json
+```jsonc
 {
   "extends": ["@joshunrau/tsconfig"],
   "compilerOptions": {
