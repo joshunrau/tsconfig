@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/joshunrau/tsconfig/compare/v0.0.3...v0.0.4) (2024-08-10)
+
+
+### Bug Fixes
+
+* remove noPropertyAccessFromIndexSignature ([4edd9bb](https://github.com/joshunrau/tsconfig/commit/4edd9bbab2408dceed6daf9679918a0619eed5a0))
+
 ## [0.0.3](https://github.com/joshunrau/tsconfig/compare/v0.0.2...v0.0.3) (2024-03-30)
 
 
